@@ -1,2 +1,5 @@
-# KhanAcademy-Clone
-"##I like cheesecake" 
+KhanAcademy-Clone
+like cheesecake 
+
+I like lotus flavoured things
+
